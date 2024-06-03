@@ -1,6 +1,6 @@
 # CrimsonUtil
 
-CrimsonUtil is a Minecraft mod designed to enhance the gameplay experience within the Kuudra Quest on the Crimson Island in Hypixel Skyblock. This mod aims to streamline the quest process, aiding players in solving riddles and completing tasks efficiently. With CrimsonUtil, players can significantly reduce the time required to complete the ~40 minute quest, achieving completion times of around 10-15 minutes when everything goes smoothly.
+CrimsonUtil is a Minecraft mod designed to enhance the gameplay experience within the Kuudra Quest on the Crimson Island in Hypixel Skyblock. This mod aims to streamline the quest process, aiding players in solving riddles and completing tasks efficiently. With CrimsonUtil, players can significantly reduce the time required to complete Quests in the Crimsonisle and improve the overall experience.
 
 ## Features
 
@@ -12,7 +12,7 @@ CrimsonUtil is a Minecraft mod designed to enhance the gameplay experience withi
   
 - **Work in Progress**: Please note that CrimsonUtil is still a work in progress (WIP), and further updates and improvements are planned to enhance its functionality and compatibility.
 
-## Installation
+## Install\tion
 
 1. **Download**: Obtain the latest version of CrimsonUtil from the [Releases](https://github.com/CrimsonUtil/Crimson-Util/releases) section.
   
