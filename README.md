@@ -12,7 +12,7 @@ CrimsonUtil is a Minecraft mod designed to enhance the gameplay experience withi
   
 - **Work in Progress**: Please note that CrimsonUtil is still a work in progress (WIP), and further updates and improvements are planned to enhance its functionality and compatibility.
 
-## Install\tion
+## Installation
 
 1. **Download**: Obtain the latest version of CrimsonUtil from the [Releases](https://github.com/CrimsonUtil/Crimson-Util/releases) section.
   
